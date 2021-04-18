@@ -4,8 +4,8 @@
 <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <br><h2>Form PPDB</h2>
-                <a class="btn btn-success" href="{{ route('ppdbs.create') }}">Daftar Baru</a>
+                <br><a class="btn btn-primary" href="/dashboard">Kembali</a><br>
+                <br><h2>Data Pendaftar</h2>
             </div>
         </div>
     </div>

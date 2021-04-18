@@ -4,7 +4,7 @@
 <div class="row">
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-            <br><a class="btn btn-primary" href="{{ route('ppdbs.index') }}">Kembali</a><br>
+            <br><a class="btn btn-primary" href="/dashboard">Kembali</a><br>
             <br><h2>Tambah Data Pendaftar Baru</h2>
         </div>
     </div>
